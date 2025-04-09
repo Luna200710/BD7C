@@ -1,4 +1,3 @@
--- Seleccionar la base de datos sakila
 USE sakila;
 
 SELECT first_name, last_name 
